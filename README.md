@@ -11,7 +11,9 @@ You can do this via **pip**:
 ```bash
 pip install cookiecutter
 ```
-        or 
+
+or 
+        
 You can do this via **homebrew**:
 
 ```bash
